@@ -1,0 +1,6 @@
+/* src/shows/ShowDetails.css */
+.show-details {
+    display: flex;
+    gap: 2rem;
+  }
+  
